@@ -25,6 +25,5 @@ bindkey  "^[[5D"  emacs-backward-word
 bindkey  "^[[5C"  emacs-forward-word
 
 PATH=$PATH:~/bin:~/dev/tools/apache-maven-3.3.9/bin
-JAVA_HOME=/usr/lib/jvm/java-8-jdk
 
 plugins=(archlinux mvn)
